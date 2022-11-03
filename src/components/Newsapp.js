@@ -40,7 +40,7 @@ const Newsapp = () => {
 
     return (
         <div>
-            <h2>Live News Application</h2>
+            <h2>News Application</h2>
             <div>
                 {
                     category.map((category) => {
